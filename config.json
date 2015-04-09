@@ -1,0 +1,11 @@
+{
+  "proxies": null,
+  "sites": {
+    "weeklystandard.com": {
+      "encrypt": true,
+      "folder": ".",
+      "password": "password",
+      "username": "email@example.com"
+    }
+  }
+}
